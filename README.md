@@ -8,3 +8,8 @@ The collaborators should folk the repo into their remote accounts and clone to m
  
 **Let's make a small bios or brief discription of ourselves**
 
+
+# Kintu Christopher
+A bioinformatics student. I like learning something new each day.
+
+Nice to be here.
